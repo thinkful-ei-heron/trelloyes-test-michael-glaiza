@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders the app as expected 1`] = `
+exports[`App component test renders the app as expected 1`] = `
 <div
   className="Card"
 >
